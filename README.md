@@ -17,5 +17,7 @@
 ## Examples  
   _사용법에 따른 예시 입니다._  
 ![Example](http://blogfiles.naver.net/20160402_155/drk0830_1459527306373tiEgL_PNG/example.PNG)
+  _Gold_  
 ![Gold](http://blogfiles.naver.net/20160402_61/drk0830_1459531502999DYnB0_PNG/gold.png)
+  _Silver_  
 ![Silver](http://blogfiles.naver.net/20160402_2/drk0830_145953150319717MCC_PNG/silver.png)
