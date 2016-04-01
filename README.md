@@ -12,7 +12,10 @@
   **8th**, Gererated _Plan_ object brings basic rates, additional rates and basic used  
   **9th**, Calculate the total rates  
   **10th**, print about basic rates, additional usages, rates according to number of additional lines, total usages and total rates  
+  
 ----------------------------------------
 ## Examples  
   _사용법에 따른 예시 입니다._  
 ![Example](http://blogfiles.naver.net/20160402_155/drk0830_1459527306373tiEgL_PNG/example.PNG)
+![Gold](http://blogfiles.naver.net/20160402_61/drk0830_1459531502999DYnB0_PNG/gold.png)
+![Silver](http://blogfiles.naver.net/20160402_2/drk0830_145953150319717MCC_PNG/silver.png)
